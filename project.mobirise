@@ -34,7 +34,7 @@
     "versionPublish": "4.8.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/pingin-logo-mini-86x770.png",
+    "favicon": "@PROJECT_PATH@/assets/images/pingin-logo-mini-86x771.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteFonts": []
